@@ -3,7 +3,7 @@
 <img align="center" alt="coding" width="fit" height="fit" src="https://camo.githubusercontent.com/9b413a4d5dd59db03d605f5f0c8d8cff20840b50bf1423a50023ef1d36c5ef4f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336b6c5a6b446966306e7341414141642f67616d696e672d6769662e676966">
 <h4>I am a passionate Software Quality Assurance Engineer from Bangladesh. In the last 01 year, I have been practicing as a Software Test Engineer. I use Testrail for writing test cases, jira or Trello tool for project management purposes, java, selenium, maven, TestNG, page object model, data-driven, page factory, and generate allure reports for both mobile and web automation and extent reports, use Postman for API testing and apache Jmeter for performance testing. 
 </h4>
-
+<p>.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mir-siam&label=Profile%20views&color=0e75b6&style=flat" alt="mir-siam" /> </p>
