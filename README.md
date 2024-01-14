@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Software Technologies**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mir-siam-198352212/](https://www.linkedin.com/in/mir-siam-198352212/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mir-siam-198352212/]((https://www.linkedin.com/in/mirsiam/))
 
 - 📫 How to reach me **mir10siam@gmail.com**
 
