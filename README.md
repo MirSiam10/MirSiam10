@@ -10,10 +10,7 @@
 
 - 🌱 I’m currently learning **Software Technologies**
 
-- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/mirsiam/
-
 - 📫 How to reach me **mir10siam@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
