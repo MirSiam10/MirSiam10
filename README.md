@@ -37,8 +37,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=siyamon69&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 
 <div align="center">
-  <img width="300" height="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+  <img width="100" height="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 </div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
