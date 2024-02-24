@@ -36,7 +36,7 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=siyamon69&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 
-<img src="https://raw.githubusercontent.com/8ad40n/8ad40n/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/siyamon69/siyamon69/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img width="100" height="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
