@@ -1,4 +1,7 @@
 <h1 align="center"> Hi <span><img width="30"src="https://media.istockphoto.com/id/532226291/vector/paw-print.jpg?s=1024x1024&w=is&k=20&c=m3kIEuJqBV5UyYa1V2xqLT9OXuUK8_CPN8mKMkGHygk="</span>, I'm Mir Siam</h1> 
+  <div align="center">
+  <img width="100%" height="auto" src=" https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+</div>
 <h3 align="center">A Passionate SQA Engineer</h3>
 <div align="center">
   <img width="100%" height="auto" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
