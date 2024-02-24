@@ -14,7 +14,6 @@ jobs:
   generate:
     permissions:
       contents: write
-    runs-on: windows 10
     timeout-minutes: 5
 
     steps:
