@@ -44,7 +44,8 @@
   <img width="100" height="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 </div>
 <div align="center">
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
+  
 ![](https://github-profile-trophy.vercel.app/?username=MirSiam10&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
@@ -61,5 +62,6 @@
 
   
   <img  width="100%" height="auto" src=" https://i0.wp.com/shellzine.net/wp-content/uploads/2022/09/madox01.jpg?w=1024&ssl=1"/>
+  
 </div>
 
