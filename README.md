@@ -51,7 +51,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MirSiam10&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MirSiam10&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
