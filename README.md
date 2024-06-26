@@ -11,7 +11,7 @@
 
  <h4>I am a passionate Software Quality Assurance Engineer from Bangladesh. In the last 01 year, I have been practicing as a Software Test Engineer. I use Testrail for writing test cases, jira or Trello tool for project management purposes, java, selenium, maven, TestNG, page object model, data-driven, page factory, and generate allure reports for both mobile and web automation and extent reports, use Postman for API testing and apache Jmeter for performance testing. 
 </h4>
-<p>.</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mir-siam&label=Profile%20views&color=0e75b6&style=flat" alt="mir-siam" /> </p>
@@ -59,7 +59,6 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MirSiam10&icon=7&color=1)](https://visitcount.itsvg.in)
 
   
   <img  width="100%" height="auto" src=" https://i0.wp.com/shellzine.net/wp-content/uploads/2022/09/madox01.jpg?w=1024&ssl=1"/>
