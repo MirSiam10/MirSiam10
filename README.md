@@ -54,11 +54,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MirSiam10&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme: 
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
 
   
   <img  width="100%" height="auto" src=" https://i0.wp.com/shellzine.net/wp-content/uploads/2022/09/madox01.jpg?w=1024&ssl=1"/>
