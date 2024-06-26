@@ -35,10 +35,10 @@
 
    
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirsiam10&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mirsiam10&theme=react&hide_border=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=mirsiam10&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=mirsiam10&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirsiam10&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 <div align="center">
   <img width="100" height="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
