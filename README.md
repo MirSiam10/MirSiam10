@@ -9,7 +9,9 @@
 <br>
  
 
- <h4>I am a passionate Software Quality Assurance Engineer from Bangladesh. In the last 01 year, I have been practicing as a Software Test Engineer. I use Testrail for writing test cases, jira or Trello tool for project management purposes, java, selenium, maven, TestNG, page object model, data-driven, page factory, and generate allure reports for both mobile and web automation and extent reports, use Postman for API testing and apache Jmeter for performance testing. 
+ <h4>Dedicated Software QA Engineer skilled in manual testing, test case writing, and API testing. Proficient in tools like Jira, Selenium, and Postman. Committed to elevating software quality and aiming to transition into a Project Manager role with a focus on leadership and strategic planning. Passionate about web development with expertise in JavaScript, React, and more. Let's connect and explore opportunities!
+
+#SoftwareTesting #QualityAssurance
 </h4>
 
 
