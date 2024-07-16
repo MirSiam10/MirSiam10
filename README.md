@@ -11,7 +11,7 @@
 <br>
  
 
- <h4>Dedicated Software QA Engineer skilled in manual testing, test case writing, and API testing. Proficient in tools like Jira, Selenium, and Postman. Committed to elevating software quality and aiming to transition into a Project Manager role with a focus on leadership and strategic planning. Passionate about web development with expertise in JavaScript, React, and more. Let's connect and explore opportunities!
+ <h4>Dedicated Software QA Engineer skilled in Manual Testing, Automation Testing, test case writing, and API testing. Proficient in tools like Jira, Postman, Clickup, Jmeter, Cypress, Selenium, and Playwright. I am committed to elevating software quality and aiming to transition into a Project Manager role with a focus on leadership and strategic planning.  Let's connect and explore opportunities!
 
 #SoftwareTesting #QualityAssurance
 </h4>
