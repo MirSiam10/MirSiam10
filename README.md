@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies:
   
 ![](https://github-profile-trophy.vercel.app/?username=MirSiam10&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
+.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=theme=ambient_gradient)
 
@@ -60,6 +60,7 @@
   <img  width="100%" height="auto" src=" https://i0.wp.com/shellzine.net/wp-content/uploads/2022/09/madox01.jpg?w=1024&ssl=1"/>
   
 </div>
+
 
 
 
