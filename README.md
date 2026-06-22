@@ -59,7 +59,7 @@
 
   
   <img  width="100%" height="auto" src=" https://i0.wp.com/shellzine.net/wp-content/uploads/2022/09/madox01.jpg?w=1024&ssl=1"/>
-  
+  .
 </div>
 
 
