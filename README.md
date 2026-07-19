@@ -12,9 +12,24 @@
 <br>
  
 
- <h4>Dedicated Software QA Engineer skilled in Manual Testing, Automation Testing, test case writing, and API testing. Proficient in tools like Jira, Postman, Clickup, Jmeter, Cypress, Selenium, and Playwright. I am committed to elevating software quality and aiming to transition into a Project Manager role with a focus on leadership and strategic planning.  Let's connect and explore opportunities!
+ <h4># 👋 About Me
 
-#SoftwareTesting #QualityAssurance
+I'm **Mir Siam**, a Computer Science graduate and an aspiring **AI Engineer** with a passion for building intelligent systems that solve real-world problems.
+
+My interests span **Agentic AI, Large Language Models (LLMs), AI Automation, Machine Learning, Backend Engineering, and MLOps**. I enjoy transforming ideas into practical AI-powered applications by combining software engineering principles with modern AI technologies.
+
+I'm continuously learning and building projects involving **Python, FastAPI, LangChain, OpenAI APIs, vector databases, Docker, cloud technologies, and AI workflows**. I believe that the future belongs to developers who can bridge software engineering with artificial intelligence, and I'm committed to becoming one of them.
+
+### 🚀 Current Focus
+
+* 🤖 AI Engineering & Agentic AI
+* 🧠 Large Language Models (LLMs)
+* ⚡ AI Automation & AI Agents
+* 🐍 Python Backend Development
+* ☁️ Cloud & MLOps
+* 🔍 Machine Learning & Deep Learning
+* 📚 Continuous Learning & Open Source
+
 </h4>
 
 
