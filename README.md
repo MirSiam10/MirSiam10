@@ -12,7 +12,7 @@
 <br>
  
 
- <h4># 👋 About Me
+ <h4>👋 About Me
 
 I'm **Mir Siam**, a Computer Science graduate and an aspiring **AI Engineer** with a passion for building intelligent systems that solve real-world problems.
 
