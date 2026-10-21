@@ -103,7 +103,7 @@ print(me.mission())
 
 </div>
 
-<div align="center"> <img width="250" height="300" alt="Jujutsu Kaisen Gojo GIF" src="https://github.com/user-attachments/assets/2b6383a3-2307-4bf2-bb71-72c934aae923" />
+<div align="center"> <img width="250" height="250" alt="Jujutsu Kaisen Gojo GIF" src="https://github.com/user-attachments/assets/2b6383a3-2307-4bf2-bb71-72c934aae923" />
 </div>
 
 ---
