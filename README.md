@@ -93,7 +93,7 @@ print(me.mission())
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirSiam10&layout=donut&langs_count=8&custom_title=%3E%20LANGUAGE%20MATRIX&hide_border=false&border_color=7c3aed&border_radius=14&bg_color=30,0f0c29,302b63&title_color=00f5ff&text_color=ffffff&text_bold=true" height="200" alt="Top Languages">
 <!-- </div> <div align="center"> -->
-  <img src="https://streak-stats.demolab.com?user=MirSiam10&hide_border=false&stroke=38bdf8&border_radius=14&background=30,020617,0c4a6e&ring=00e5ff&fire=60a5fa&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=7dd3fc&sideLabels=60a5fa&dates=bae6fd" height="175" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=MirSiam10&hide_border=false&stroke=00f5ff&border_radius=14&background=30,0f0c29,302b63&ring=00f5ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00f5ff&sideNums=ffffff&sideLabels=a78bfa&dates=a78bfa" height="175" alt="GitHub Streak">
 </div>
 
 
@@ -106,8 +106,9 @@ print(me.mission())
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MirSiam10&theme=tokyonight" height="190" alt="Profile Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MirSiam10&theme=tokyonight&utcOffset=6" height="190" alt="Productive Time (UTC+6)">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MirSiam10&theme=tokyonight&title_color=38BDF8&text_color=BAE6FD&bg_color=020617&border_color=0EA5E9&icon_color=00E5FF&chart_color=38BDF8" height="190" alt="GitHub Profile Stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MirSiam10&theme=tokyonight&utcOffset=6&title_color=38BDF8&text_color=BAE6FD&bg_color=020617&border_color=0EA5E9&icon_color=00E5FF&chart_color=38BDF8" height="190" alt="Productive Time (UTC+6)">
 </div>
 
 <!-- Row 4: trophies
