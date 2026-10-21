@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Mir Siam | AI Engineer | GenAI | Agentic Systems" width="100%">
+  <img src="./header.svg" alt="Mir Siam | AI Engineer | GenAI | Agentic Systems" width="100%">
 </div>
 
 <div align="center">
