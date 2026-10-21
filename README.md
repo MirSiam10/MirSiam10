@@ -1,4 +1,5 @@
 <div align="center">
+  <h1 align="center"> Hi <span><img width="30"src="https://media.istockphoto.com/id/532226291/vector/paw-print.jpg?s=1024x1024&w=is&k=20&c=m3kIEuJqBV5UyYa1V2xqLT9OXuUK8_CPN8mKMkGHygk="</span>,
   <a href="https://github.com/MirSiam10">
     <img src="./header (1).svg" alt="Mir Siam | AI Engineer | GenAI | Agentic Systems" width="100%">
   </a>
@@ -70,7 +71,7 @@ print(me.mission())
 
 <!-- Row 1: core stats + language donut -->
 <div align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=MirSiam10&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged&custom_title=%3E%20DEV%20STATS&hide_border=false&border_color=00f5ff&border_radius=14&bg_color=30,0f0c29,302b63&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff&text_bold=true&ring_color=00f5ff" height="200" alt="GitHub Stats">// -->
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirSiam10&layout=donut&langs_count=8&custom_title=%3E%20LANGUAGE%20MATRIX&hide_border=false&border_color=7c3aed&border_radius=14&bg_color=30,0f0c29,302b63&title_color=00f5ff&text_color=ffffff&text_bold=true" height="200" alt="Top Languages">
 <!-- </div> <div align="center"> -->
   <img src="https://streak-stats.demolab.com?user=MirSiam10&hide_border=false&stroke=00f5ff&border_radius=14&background=30,0f0c29,302b63&ring=00f5ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00f5ff&sideNums=ffffff&sideLabels=a78bfa&dates=a78bfa" height="175" alt="GitHub Streak">
