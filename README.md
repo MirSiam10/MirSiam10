@@ -91,16 +91,8 @@ print(me.mission())
  <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirSiam10&layout=donut&langs_count=8&custom_title=%3E%20LANGUAGE%20MATRIX&hide_border=false&border_color=7c3aed&border_radius=14&bg_color=30,0f0c29,302b63&title_color=00f5ff&text_color=ffffff&text_bold=true" height="200" alt="Top Languages">
-<!-- </div> <div align="center"> -->
+
 <img src="https://streak-stats.demolab.com?user=MirSiam10&hide_border=false&stroke=00f5ff&border_radius=14&background=30,0f0c29,302b63&ring=00f5ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00f5ff&sideNums=ffffff&sideLabels=a78bfa&dates=a78bfa" height="175" alt="GitHub Streak">
-</div>
-
-<!-- Row 2: streak -->
-
-<!-- Row 3: profile summary cards 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MirSiam10&theme=tokyonight" height="190" alt="Repos per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MirSiam10&theme=tokyonight" height="190" alt="Most Commit Language"> -->
 </div>
 
 <div align="center">
@@ -111,16 +103,7 @@ print(me.mission())
 
 </div>
 
-<!-- Row 4: trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MirSiam10&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies">
-</div>
-
-<br>
-
-<!-- Row 5: activity graph 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MirSiam10&bg_color=0f0c29&color=00f5ff&line=7c3aed&point=ffffff&area=true&area_color=00f5ff&hide_border=true&custom_title=%3E%20CONTRIBUTION%20ACTIVITY%20GRAPH&radius=14" alt="Activity Graph" width="100%">  -->
+<div align="center"> <img width="480" height="476" alt="Jujutsu Kaisen Gojo GIF" src="https://github.com/user-attachments/assets/2b6383a3-2307-4bf2-bb71-72c934aae923" />
 </div>
 
 ---
