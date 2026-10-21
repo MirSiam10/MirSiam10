@@ -1,108 +1,166 @@
-<h1 align="center"> Hi <span><img width="30"src="https://media.istockphoto.com/id/532226291/vector/paw-print.jpg?s=1024x1024&w=is&k=20&c=m3kIEuJqBV5UyYa1V2xqLT9OXuUK8_CPN8mKMkGHygk="</span>, I'm Mir Siam</h1> 
-...
-  <h3 align="center">A Passionate AI Engineer</h3>
 <div align="center">
-  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f5ff&height=240&section=header&text=Mir%20Siam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20Agentic%20Systems&descAlignY=60&descSize=20&animation=fadeIn" alt="Header Banner" width="100%">
 </div>
 
+<div align="center">
+  <a href="https://github.com/MirSiam10">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=60&lines=Building+intelligent+systems+with+Python+%F0%9F%A4%96;Exploring+LLMs%2C+GenAI+%26+Agentic+Workflows+%E2%9A%A1;Computer+Vision+Researcher+%7C+YOLO+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;Turning+ideas+into+AI-powered+products+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MirSiam10&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20AI%20Roles-00f5ff?style=for-the-badge&logoColor=black" alt="Open to work">
+</div>
 
 <br>
- 
 
- <h4>👋 About Me
+---
 
-I'm **Mir Siam**, a Computer Science graduate and an aspiring **AI Engineer** with a passion for building intelligent systems that solve real-world problems.
+## ⚡ `> whoami`
 
-My interests span **Agentic AI, Large Language Models (LLMs), AI Automation, Machine Learning, Backend Engineering, and MLOps**. I enjoy transforming ideas into practical AI-powered applications by combining software engineering principles with modern AI technologies.
+```python
+class MirSiam:
+    def __init__(self):
+        self.role      = "AI Engineer (aspiring) | Recent CSE Graduate"
+        self.education = "B.Sc. in CSE, Daffodil International University (2021–2025)"
+        self.location  = "Dhaka, Bangladesh 🇧🇩"
+        self.focus     = ["Generative AI", "LLM Applications", "Agentic AI", "Backend for AI"]
+        self.research  = ["Ensemble Deep Learning", "YOLO-based Detection", "Medical Image Classification"]
+        self.stack     = ["Python", "FastAPI", "PostgreSQL", "LLM APIs", "n8n"]
+        self.learning  = "Backend + AI: shipping real products, not just notebooks"
 
-I'm continuously learning and building projects involving **Python, FastAPI, LangChain, OpenAI APIs, vector databases, Docker, cloud technologies, and AI workflows**. I believe that the future belongs to developers who can bridge software engineering with artificial intelligence, and I'm committed to becoming one of them.
+    def mission(self):
+        return "Build AI systems that are useful, reliable, and a little bit futuristic."
 
-### 🚀 Current Focus
+me = MirSiam()
+print(me.mission())
+```
 
-* 🤖 AI Engineering & Agentic AI
-* 🧠 Large Language Models (LLMs)
-* ⚡ AI Automation & AI Agents
-* 🐍 Python Backend Development
-* ☁️ Cloud & MLOps
-* 🔍 Machine Learning & Deep Learning
-* 📚 Continuous Learning & Open Source
+---
 
-</h4>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mir-siam&label=Profile%20views&color=0e75b6&style=flat" alt="mir-siam" /> </p>
-
-- 🌱 I’m currently learning **Software Technologies**
-
-- 📫 How to reach me **mir10siam@gmail.com**
-
-.
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-.
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> </p>
-
-.
-   
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mirsiam10&theme=react&hide_border=false)
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=mirsiam10&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirsiam10&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+## 🧠 Tech Arsenal
 
 <div align="center">
-  <img width="100" height="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+
+**🤖 AI / ML**
+
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning">
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision">
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO">
+<img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs">
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Prompt Engineering">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+
+**💻 Languages & Backend**
+
+<img src="https://skillicons.dev/icons?i=python,c,java,js,fastapi&theme=dark" alt="Languages">
+
+**🗄️ Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,git,github,vscode,linux&theme=dark" alt="Databases and Tools">
+
 </div>
+
+---
+
+## 🚀 Featured Projects
+
 <div align="center">
-## 🏆 GitHub Trophies:
-  
-![](https://github-profile-trophy.vercel.app/?username=MirSiam10&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-....
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=theme=ambient_gradient)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MirSiam10&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+| 🛰️ Project | 📝 What it does | 🧰 Tech |
+|:--|:--|:--|
+| **[UnderWaterYOLO](https://github.com/MirSiam10/REPO_NAME)** | Underwater marine species detection with YOLO-based computer vision | `YOLO` `Python` `Computer Vision` |
+| **[Road Damage Classification](https://github.com/MirSiam10/REPO_NAME)** | Ensemble deep learning research for classifying road damage | `Deep Learning` `Ensemble` `Python` |
+| **[Leukemia Stage Classifier](https://github.com/MirSiam10/REPO_NAME)** | 4-stage leukemia classification from medical images | `ResNet18` `VGG16` `Python` |
+| **[Jarvis / Alena Voice Assistant](https://github.com/MirSiam10/REPO_NAME)** | A voice-driven AI assistant for intelligent automation | `Python` `Voice` `LLM APIs` |
 
-
-  
-  <img  width="100%" height="auto" src=" https://i0.wp.com/shellzine.net/wp-content/uploads/2022/09/madox01.jpg?w=1024&ssl=1"/>
-  .
 </div>
 
+> 🔧 *Replace each `REPO_NAME` with your real repository name.*
 
+---
 
+## 🔮 System Architecture: How I Build AI
 
+```mermaid
+flowchart LR
+    A[💡 Problem] --> B[📊 Data & Research]
+    B --> C[🧪 Model / LLM]
+    C --> D[⚙️ FastAPI Backend]
+    D --> E[🗄️ PostgreSQL]
+    D --> F[🤖 Agent Workflows]
+    F --> G[🚀 Deployed AI Product]
+    E --> G
+```
 
+---
 
+## 📡 Currently Focusing On
 
+- 🌱 Becoming a strong **AI Engineer**, building GenAI and LLM-powered applications
+- ⚙️ **Backend for AI**: Python, FastAPI, Pydantic, PostgreSQL
+- 🤖 **Agentic AI** and intelligent automation workflows
+- 🎙️ Evolving my **voice assistant** project
+- 📚 Completed Grameenphone Academy programs in AI workflows, prompt engineering, and workplace automation
 
+---
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MirSiam10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7c3aed&count_private=true" height="165" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirSiam10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff" height="165" alt="Top Languages">
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MirSiam10&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=7c3aed&currStreakLabel=00f5ff" height="165" alt="GitHub Streak">
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MirSiam10&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies">
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MirSiam10&bg_color=0d1117&color=00f5ff&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%">
+</div>
 
+---
 
+## 🐍 Contribution Snake
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MirSiam10/MirSiam10/output/github-snake-dark.svg" alt="Contribution Snake" width="100%">
+</div>
 
+---
 
+## 🤝 Let's Connect
 
+<!-- Social badges: fill in your handles and remove this comment wrapper
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.kaggle.com/YOUR_KAGGLE" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+</div>
+-->
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=7C3AED&center=true&vCenter=true&width=700&lines=Open+to+collaborations+on+AI+and+GenAI+projects;Let's+build+something+intelligent+together+%F0%9F%A4%9D" alt="Closing Typing SVG">
+</div>
 
+<br>
 
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer" width="100%">
+</div>
