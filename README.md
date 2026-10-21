@@ -34,29 +34,7 @@ print(me.mission())
 
 ---
 
-## 📬 Contact Information
 
-<div align="center">
-
-| | Platform | Details |
-|:--:|:--|:--|
-| 📧 | **Email** | [muir10siam@gmail.com](mailto:muir10siam@gmail.com) |
-| 💼 | **LinkedIn** | [linkedin.com/in/mirsiam](https://www.linkedin.com/in/mirsiam/) |
-| 📘 | **Facebook** | [facebook.com/Mir.Siam10](https://www.facebook.com/Mir.Siam10) |
-
-<a href="mailto:muir10siam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/mirsiam/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.facebook.com/Mir.Siam10" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-
-</div>
-
----
 
 ## 🧠 Tech Arsenal
 
@@ -94,12 +72,12 @@ print(me.mission())
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=MirSiam10&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged&custom_title=%3E%20DEV%20STATS&hide_border=false&border_color=00f5ff&border_radius=14&bg_color=30,0f0c29,302b63&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff&text_bold=true&ring_color=00f5ff" height="200" alt="GitHub Stats">// -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirSiam10&layout=donut&langs_count=8&custom_title=%3E%20LANGUAGE%20MATRIX&hide_border=false&border_color=7c3aed&border_radius=14&bg_color=30,0f0c29,302b63&title_color=00f5ff&text_color=ffffff&text_bold=true" height="200" alt="Top Languages">
-</div>
-
-<!-- Row 2: streak -->
-<div align="center">
+</div> <div align="center">
   <img src="https://streak-stats.demolab.com?user=MirSiam10&hide_border=false&stroke=00f5ff&border_radius=14&background=30,0f0c29,302b63&ring=00f5ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00f5ff&sideNums=ffffff&sideLabels=a78bfa&dates=a78bfa" height="175" alt="GitHub Streak">
 </div>
+
+
+<!-- Row 2: streak -->
 
 <!-- Row 3: profile summary cards -->
 <div align="center">
