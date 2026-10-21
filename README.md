@@ -138,26 +138,6 @@ print(me.mission())
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=theme=ambient_gradient)
-<!-- 
-## 🔮 System Architecture: How I Build AI
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#302b63','primaryTextColor':'#ffffff','primaryBorderColor':'#00f5ff','lineColor':'#00f5ff'}}}%%
-flowchart LR
-    A[💡 Problem] --> B[📊 Data & Research]
-    B --> C[🧪 Model / LLM]
-    C --> D[⚙️ FastAPI Backend]
-    D --> E[🗄️ PostgreSQL]
-    D --> F[🤖 Agent Workflows]
-    F --> G[🚀 Deployed AI Product]
-    E --> G
-    classDef core fill:#302b63,stroke:#00f5ff,stroke-width:2px,color:#fff;
-    classDef ship fill:#7c3aed,stroke:#00f5ff,stroke-width:3px,color:#fff;
-    class A,B,C,D,E,F core;
-    class G ship;
-
--->
----
 
 ## 📡 Currently Focusing On
 
@@ -183,8 +163,10 @@ flowchart LR
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=7C3AED&center=true&vCenter=true&width=700&lines=Open+to+collaborations+on+AI+and+GenAI+projects;Let's+build+something+intelligent+together+%F0%9F%A4%9D" alt="Closing Typing SVG">
 </div>
-<img align="center" width="480" height="270" alt="We Did It Netflix GIF by Cyberpunk Edgerunners" src="https://github.com/user-attachments/assets/6ea446b7-1819-4850-8414-5ffae3370c51" />
+<div align="center">
 
+<img  width="480" height="270" alt="We Did It Netflix GIF by Cyberpunk Edgerunners" src="https://github.com/user-attachments/assets/6ea446b7-1819-4850-8414-5ffae3370c51" />
+</div>
 <br>
 
 <div align="center">
