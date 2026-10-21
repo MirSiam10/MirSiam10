@@ -134,7 +134,6 @@ print(me.mission())
 | **[Jarvis / Alena Voice Assistant](https://github.com/MirSiam10/REPO_NAME)** | A voice-driven AI assistant for intelligent automation | `Python` `Voice` `LLM APIs` |
 
 </div>
-<img width="480" height="270" alt="We Did It Netflix GIF by Cyberpunk Edgerunners" src="https://github.com/user-attachments/assets/6ea446b7-1819-4850-8414-5ffae3370c51" />
 
 
 ### ✍️ Random Dev Quote
@@ -184,6 +183,7 @@ flowchart LR
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=7C3AED&center=true&vCenter=true&width=700&lines=Open+to+collaborations+on+AI+and+GenAI+projects;Let's+build+something+intelligent+together+%F0%9F%A4%9D" alt="Closing Typing SVG">
 </div>
+<img align="center" width="480" height="270" alt="We Did It Netflix GIF by Cyberpunk Edgerunners" src="https://github.com/user-attachments/assets/6ea446b7-1819-4850-8414-5ffae3370c51" />
 
 <br>
 
