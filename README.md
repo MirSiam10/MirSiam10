@@ -110,15 +110,6 @@ print(me.mission())
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-| 🛰️ Project | 📝 What it does | 🧰 Tech |
-|:--|:--|:--|
-| **[Leukemia Stage Classifier](https://github.com/MirSiam10/REPO_NAME)** | 4-stage leukemia classification from medical images | `ResNet18` `VGG16` `Python` |
-| **[Jarvis / Alena Voice Assistant](https://github.com/MirSiam10/REPO_NAME)** | A voice-driven AI assistant for intelligent automation | `Python` `Voice` `LLM APIs` |
-
-</div>
-
 ## 📡 Currently Focusing On
 
 - 🌱 Becoming a strong **AI Engineer**, building GenAI and LLM-powered applications
