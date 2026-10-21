@@ -117,8 +117,6 @@ print(me.mission())
 
 </div>
 
-> 🔧 *Replace each `REPO_NAME` with your real repository name.*
-
 ---
 
 ## 🔮 System Architecture: How I Build AI
@@ -151,13 +149,6 @@ flowchart LR
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MirSiam10/MirSiam10/output/github-snake-dark.svg" alt="Contribution Snake" width="100%">
-</div>
-
----
 
 ## 🤝 Let's Connect
 
