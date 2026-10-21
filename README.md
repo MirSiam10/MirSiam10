@@ -88,13 +88,11 @@ print(me.mission())
 
 <br>
 
-<!-- Row 1: core stats + language donut -->
-<div align="center">
+ <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirSiam10&layout=donut&langs_count=8&custom_title=%3E%20LANGUAGE%20MATRIX&hide_border=false&border_color=38BDF8&border_radius=14&bg_color=30,020617,0C4A6E&title_color=00E5FF&text_color=67E8F9&text_bold=true&ring_color=38BDF8" height="200" alt="Top Languages">
-
-  <img src="https://streak-stats.demolab.com?user=MirSiam10&hide_border=false&stroke=38BDF8&border_radius=14&background=30,020617,0C4A6E&ring=00E5FF&fire=38BDF8&currStreakNum=67E8F9&currStreakLabel=00E5FF&sideNums=67E8F9&sideLabels=00E5FF&dates=67E8F9" height="175" alt="GitHub Streak">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirSiam10&layout=donut&langs_count=8&custom_title=%3E%20LANGUAGE%20MATRIX&hide_border=false&border_color=7c3aed&border_radius=14&bg_color=30,0f0c29,302b63&title_color=00f5ff&text_color=ffffff&text_bold=true" height="200" alt="Top Languages">
+<!-- </div> <div align="center"> -->
+<img src="https://streak-stats.demolab.com?user=MirSiam10&hide_border=false&stroke=00f5ff&border_radius=14&background=30,0f0c29,302b63&ring=00f5ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00f5ff&sideNums=ffffff&sideLabels=a78bfa&dates=a78bfa" height="175" alt="GitHub Streak">
 </div>
 
 <!-- Row 2: streak -->
