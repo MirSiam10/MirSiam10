@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/MirSiam10">
-    <img src="./header.svg" alt="Mir Siam | AI Engineer | GenAI | Agentic Systems" width="100%">
+    <img src="./header (1).svg" alt="Mir Siam | AI Engineer | GenAI | Agentic Systems" width="100%">
   </a>
 </div>
 
@@ -85,7 +85,7 @@ print(me.mission())
 
 <!-- ===================== GITHUB ANALYTICS (FUTURISTIC) ===================== -->
 <div align="center">
-  <img src="./analytics-hud(1).svg" alt="GitHub Analytics - System Telemetry" width="100%">
+  <img src="./analytics-hud (1).svg" alt="GitHub Analytics - System Telemetry" width="100%">
 </div>
 
 <br>
