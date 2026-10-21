@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> Hi <span><img width="30"src="https://media.istockphoto.com/id/532226291/vector/paw-print.jpg?s=1024x1024&w=is&k=20&c=m3kIEuJqBV5UyYa1V2xqLT9OXuUK8_CPN8mKMkGHygk="</span>, I am
+  <h1 align="center"> Hi <!--<span><img width="30"src="https://media.istockphoto.com/id/532226291/vector/paw-print.jpg?s=1024x1024&w=is&k=20&c=m3kIEuJqBV5UyYa1V2xqLT9OXuUK8_CPN8mKMkGHygk="</span>-->, I am
   <a href="https://github.com/MirSiam10">
     <img src="./header (1).svg" alt="Mir Siam | AI Engineer | GenAI | Agentic Systems" width="100%">
   </a>
