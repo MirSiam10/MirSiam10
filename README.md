@@ -135,10 +135,6 @@ print(me.mission())
 
 </div>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=theme=ambient_gradient)
-
 ## 📡 Currently Focusing On
 
 - 🌱 Becoming a strong **AI Engineer**, building GenAI and LLM-powered applications
@@ -163,10 +159,13 @@ print(me.mission())
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=7C3AED&center=true&vCenter=true&width=700&lines=Open+to+collaborations+on+AI+and+GenAI+projects;Let's+build+something+intelligent+together+%F0%9F%A4%9D" alt="Closing Typing SVG">
 </div>
-<div align="center">
 
+<div align="center">
 <img  width="480" height="270" alt="We Did It Netflix GIF by Cyberpunk Edgerunners" src="https://github.com/user-attachments/assets/6ea446b7-1819-4850-8414-5ffae3370c51" />
 </div>
+
+<div>### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=theme=ambient_gradient)</div>
 <br>
 
 <div align="center">
