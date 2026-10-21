@@ -85,7 +85,7 @@ print(me.mission())
 
 <!-- ===================== GITHUB ANALYTICS (FUTURISTIC) ===================== -->
 <div align="center">
-  <img src="./assets/analytics-hud.svg" alt="GitHub Analytics - System Telemetry" width="100%">
+  <img src="./analytics-hud(1).svg" alt="GitHub Analytics - System Telemetry" width="100%">
 </div>
 
 <br>
