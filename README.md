@@ -104,9 +104,11 @@ print(me.mission())
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MirSiam10&theme=tokyonight&title_color=38BDF8&text_color=BAE6FD&bg_color=020617&border_color=0EA5E9&icon_color=00E5FF&chart_color=38BDF8" height="190" alt="GitHub Profile Stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MirSiam10&theme=tokyonight&utcOffset=6&title_color=38BDF8&text_color=BAE6FD&bg_color=020617&border_color=0EA5E9&icon_color=00E5FF&chart_color=38BDF8" height="190" alt="Productive Time (UTC+6)">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MirSiam10&theme=tokyonight&title_color=00F5FF&text_color=BAE6FD&bg_color=0f0c29&border_color=00F5FF&icon_color=00E5FF&chart_color=38BDF8" height="190" alt="GitHub Profile Stats">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MirSiam10&theme=tokyonight&utcOffset=6&title_color=00F5FF&text_color=BAE6FD&bg_color=0f0c29&border_color=00F5FF&icon_color=00E5FF&chart_color=38BDF8" height="190" alt="Productive Time (UTC+6)">
+
 </div>
 
 <!-- Row 4: trophies
