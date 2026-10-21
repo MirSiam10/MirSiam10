@@ -8,9 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=MirSiam10&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 <br>
-
----
-
+    
 ## ⚡ `> whoami`
 
 ```python
