@@ -4,11 +4,9 @@
     <img src="./header (1).svg" alt="Mir Siam | AI Engineer | GenAI | Agentic Systems" width="100%">
   </a>
 </div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MirSiam10&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
-
 <br>
 
 ---
