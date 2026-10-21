@@ -37,22 +37,49 @@ print(me.mission())
 
 <div align="center">
 
-**🤖 AI / ML**
+## 🛠️ Languages & Tools
 
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning">
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision">
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO">
-<img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs">
-<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Prompt Engineering">
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+<div align="center">
+  <h4>Frontend Development</h4>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</div>
 
-**💻 Languages & Backend**
+<div align="center">
+  <h4>Backend Development</h4>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,c,java,js,fastapi&theme=dark" alt="Languages">
+<div align="center">
+  <h4>Databases & Cloud</h4>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</div>
 
-**🗄️ Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,git,github,vscode,linux&theme=dark" alt="Databases and Tools">
+<div align="center">
+  <h4>Mobile & Other Tools</h4>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</div>
 
 </div>
 
@@ -76,10 +103,10 @@ print(me.mission())
 
 <!-- Row 2: streak -->
 
-<!-- Row 3: profile summary cards -->
+<!-- Row 3: profile summary cards 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MirSiam10&theme=tokyonight" height="190" alt="Repos per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MirSiam10&theme=tokyonight" height="190" alt="Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MirSiam10&theme=tokyonight" height="190" alt="Most Commit Language"> -->
 </div>
 
 <div align="center">
@@ -87,16 +114,16 @@ print(me.mission())
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MirSiam10&theme=tokyonight&utcOffset=6" height="190" alt="Productive Time (UTC+6)">
 </div>
 
-<!-- Row 4: trophies -->
+<!-- Row 4: trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MirSiam10&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies">
 </div>
 
 <br>
 
-<!-- Row 5: activity graph -->
+<!-- Row 5: activity graph 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MirSiam10&bg_color=0f0c29&color=00f5ff&line=7c3aed&point=ffffff&area=true&area_color=00f5ff&hide_border=true&custom_title=%3E%20CONTRIBUTION%20ACTIVITY%20GRAPH&radius=14" alt="Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MirSiam10&bg_color=0f0c29&color=00f5ff&line=7c3aed&point=ffffff&area=true&area_color=00f5ff&hide_border=true&custom_title=%3E%20CONTRIBUTION%20ACTIVITY%20GRAPH&radius=14" alt="Activity Graph" width="100%">  -->
 </div>
 
 ---
@@ -107,15 +134,16 @@ print(me.mission())
 
 | 🛰️ Project | 📝 What it does | 🧰 Tech |
 |:--|:--|:--|
-| **[UnderWaterYOLO](https://github.com/MirSiam10/REPO_NAME)** | Underwater marine species detection with YOLO-based computer vision | `YOLO` `Python` `Computer Vision` |
-| **[Road Damage Classification](https://github.com/MirSiam10/REPO_NAME)** | Ensemble deep learning research for classifying road damage | `Deep Learning` `Ensemble` `Python` |
 | **[Leukemia Stage Classifier](https://github.com/MirSiam10/REPO_NAME)** | 4-stage leukemia classification from medical images | `ResNet18` `VGG16` `Python` |
 | **[Jarvis / Alena Voice Assistant](https://github.com/MirSiam10/REPO_NAME)** | A voice-driven AI assistant for intelligent automation | `Python` `Voice` `LLM APIs` |
 
 </div>
+<img width="480" height="270" alt="We Did It Netflix GIF by Cyberpunk Edgerunners" src="https://github.com/user-attachments/assets/6ea446b7-1819-4850-8414-5ffae3370c51" />
 
----
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=theme=ambient_gradient)
+<!-- 
 ## 🔮 System Architecture: How I Build AI
 
 ```mermaid
@@ -132,8 +160,8 @@ flowchart LR
     classDef ship fill:#7c3aed,stroke:#00f5ff,stroke-width:3px,color:#fff;
     class A,B,C,D,E,F core;
     class G ship;
-```
 
+-->
 ---
 
 ## 📡 Currently Focusing On
