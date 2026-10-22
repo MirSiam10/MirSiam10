@@ -132,8 +132,10 @@ print(me.mission())
 <img  width="480" height="270" alt="We Did It Netflix GIF by Cyberpunk Edgerunners" src="https://github.com/user-attachments/assets/6ea446b7-1819-4850-8414-5ffae3370c51" />
 </div>
 
-<div>### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=theme=ambient_gradient)</div>
+<div align="center">
+<h2>✍️ Random Dev Quote</h2> 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=theme=ambient_gradient)
+</div>
 <br>
 
 <div align="center">
